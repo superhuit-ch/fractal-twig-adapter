@@ -7,7 +7,7 @@ Use Twig templates with [Fractal](http://fractal.build/).
 Install via NPM:
 
 ```bash
-npm i https://github.com/tnottu/fractal-twig-adapter.git --save
+npm i https://github.com/superhuit-ch/fractal-twig-adapter.git --save
 ```
 
 Add configuration details into your fractal.js file:
